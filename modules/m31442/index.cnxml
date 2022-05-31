@@ -1,0 +1,94 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Synthesis of Molecular Hydrogen</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m31442</md:content-id>
+  <md:title>Synthesis of Molecular Hydrogen</md:title>
+  <md:abstract/>
+  <md:uuid>acec014c-d743-4acd-8d46-71c940bbf16e</md:uuid>
+</metadata>
+
+<content>
+    <para id="id14850712">Although hydrogen is the most abundant element in the universe, its reactivity means that it exists as compounds with other elements. Thus, molecular hydrogen, H<sub>2</sub>, must be prepared from other compounds. The following outlines a selection of synthetic methods. </para>
+    <section id="id14571695">
+      <title>Steam reforming of carbon and hydrocarbons</title>
+      <para id="id14780016">Many reactions are available for the production of hydrogen from the reaction of steam with a carbon source. The choice of reaction is guided by the availability of raw materials and the desired purity of the hydrogen. The simplest reaction involves passing steam over coke at high temperatures (1000 °C). </para>
+      
+      <equation id="eip-589"><media id="id13328955_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-9ea6.jpg" id="id13328955__onlineimage" width="550" print-width="4.5in"/>
+        </media>
+      </equation><para id="id13603497">Coke is a grey, hard, and porous carbonaceous material derived from destructive distillation of low-ash, low-sulfur bituminous coal. As an alternative to coke, methane may be used at a slightly higher temperature (1100 °C). </para>
+      
+      <equation id="eip-150"><media id="id14591472_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-ec18.jpg" id="id14591472__onlineimage" width="550" print-width="4.5in"/>
+        </media></equation><para id="id12781004">In each case the carbon monoxide formed in the reaction can react further with steam in the presence of a suitable catalyst (usually iron or cobalt oxide) to generate further hydrogen. </para>
+      
+      <equation id="eip-610"><media id="id14228253_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics3-b904.jpg" id="id14228253__onlineimage" width="550" print-width="4.5in"/>
+        </media></equation><para id="id13350422">This reaction is known as the water gas-shift reaction, and was discovered by Italian physicist Felice Fontana (<link target-id="id14557409 "/>) in 1780. </para>
+      <figure id="id14557409"><media id="id14557409_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics4-ce63.png" id="id14557409__onlineimage" width="300" print-width="2in"/>
+        </media>
+      <caption>Italian physicist Felice Fontana (1730 - 1805). </caption></figure>
+      
+      <para id="id14857660">The dominant industrial process for hydrogen production uses natural gas or oil refinery feedstock in the presence of a nickel catalyst at 900 °C. </para><equation id="eip-784"><media id="id14608210_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Correct-4992.jpg" id="id14608210__onlineimage" width="550" print-width="4.5in"/>
+        </media></equation>
+      
+    </section>
+    <section id="id13925212">
+      <title>Electrolysis of water</title>
+      <para id="id14864377">Electrolysis of acidified water in with platinum electrodes is a simple (although energy intensive) route to hydrogen. </para>
+      
+      <equation id="eip-633"><media id="id14715108_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics6-d8a9.jpg" id="id14715108__onlineimage" width="550" print-width="4.5in"/>
+        </media></equation><para id="id14879852">On a larger scale hydrolysis of warm aqueous solutions of barium hydroxide can yield hydrogen of purity greater than 99.95%. Hydrogen is also formed as a side product in the production of chlorine from electrolysis of brine (NaCl) solutions in the presence of a mercury electrode. </para>
+      
+      <equation id="eip-75"><media id="id13514057_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics7-6dea.jpg" id="id13514057__onlineimage" width="550" print-width="4.5in"/>
+        </media></equation><para id="id13909840">The sodium mercury amalgam reacts with water to yield hydrogen. </para>
+      
+      <equation id="eip-831"><media id="id14549241_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics8-51e8.jpg" id="id14549241__onlineimage" width="550" print-width="4.5in"/>
+        </media></equation><para id="id14877117">Thus, the overall reaction can be written as: </para>
+      
+      <equation id="eip-319"><media id="id15892015_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics9-0d85.jpg" id="id15892015__onlineimage" width="550" print-width="4.5in"/>
+        </media></equation><para id="id13494283">However, this method is being phased out for environmental reasons. </para>
+    </section>
+    <section id="id13896402">
+      <title>Reaction of metal with acid</title>
+      <para id="id14236916">Hydrogen is produced by the reaction of highly electropositive metals with water, and less reactive metals with acids, e.g., </para>
+      
+      <equation id="eip-614"><media id="id14204932_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics10-9629.jpg" id="id14204932__onlineimage" width="550" print-width="4.5in"/>
+        </media></equation><para id="id14565389">This method was originally used by Henry Cavendish (<link target-id="id14573760"/>) during his studies that led to the understanding of hydrogen as an element (<link target-id="id14720047"/>). </para>
+      <figure id="id14573760"><media id="id14573760_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics11-2a96.jpg" id="id14573760__onlineimage" width="300" print-width="2in"/>
+        </media>
+      <caption>Henry Cavendish (1731 - 1810). </caption></figure>
+    
+
+        <figure id="id14720047"><media id="id14720047_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics12-df0f.jpg" id="id14720047__onlineimage" width="450" print-width="3in"/>
+          </media>
+        <caption>Cavendish's apparatus for making hydrogen in the left hand jar by the reaction of a strong acid with a metal and collecting the hydrogen gas above water in the right hand inverted jar. </caption></figure>
+
+      
+      <para id="id14794333">The same method was employed by French inventor Jacques Charles (<link target-id="id13658062"/>) for the first flight of a hydrogen balloon on 27<sup>th</sup> August 1783. Unfortunately, terrified peasants destroyed his balloon when it landed outside of Paris. </para>
+      <figure id="id13658062"><media id="id13658062_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics13-2009.jpg" id="id13658062__onlineimage" width="300" print-width="2in"/>
+        </media>
+      <caption>Jacques Alexandre César Charles (1746 – 1823). </caption></figure>
+      
+    </section>
+    <section id="id14588352">
+      <title>Hydrolysis of metal hydrides</title>
+      <para id="id11314052">Reactive metal hydrides such as calcium hydride (CaH<sub>2</sub>) undergo rapid hydrolysis to liberate hydrogen. </para>
+      
+      <equation id="eip-433"><media id="id14630189_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics14-5713.jpg" id="id14630189__onlineimage" width="550" print-width="4.5in"/>
+        </media></equation><para id="id14864573">This reaction is sometimes used to inflate life rafts and weather balloons where a simple, compact means of generating H<sub>2</sub> is desired. </para>
+      
+    </section>
+  </content>
+</document>

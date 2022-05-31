@@ -1,0 +1,235 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Isotopes of Hydrogen</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m31520</md:content-id>
+  <md:title>Isotopes of Hydrogen</md:title>
+  <md:abstract/>
+  <md:uuid>f753d7fa-9fec-47ea-90ef-739a90375728</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1170940951428">Hydrogen has three isotopes (<link target-id="id8749808"/>) and unlike other elements these are given special names to differentiate then from the most abundant isotope. Tritium is radioactive with a half life of about 10 years. </para>
+    <table id="id8749808" summary="Summary of isotopes of hydrogen.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Isotope</emphasis></entry>
+            <entry><emphasis effect="bold">Hydrogen-1</emphasis></entry>
+            <entry><emphasis effect="bold">Hydrogen-2</emphasis></entry>
+            <entry><emphasis effect="bold">Hydrogen-3</emphasis></entry>
+          </row>
+          <row>
+            <entry>Special name</entry>
+            <entry>Hydrogen</entry>
+            <entry>Deuterium</entry>
+            <entry>Tritium</entry>
+          </row>
+          <row>
+            <entry>Symbol</entry>
+            <entry>H</entry>
+            <entry>D</entry>
+            <entry>T</entry>
+          </row>
+          <row>
+            <entry>Atomic number </entry>
+            <entry>1</entry>
+            <entry>1</entry>
+            <entry>1</entry>
+          </row>
+          <row>
+            <entry>Number of neutrons</entry>
+            <entry>0 </entry>
+            <entry>1 </entry>
+            <entry>2</entry>
+          </row>
+          <row>
+            <entry>Mass number </entry>
+            <entry>1</entry>
+            <entry>2</entry>
+            <entry>3</entry>
+          </row>
+          <row>
+            <entry>Natural abundance</entry>
+            <entry>99.9844%</entry>
+            <entry>0.0156%</entry>
+            <entry>very small</entry>
+          </row>
+        </tbody>
+      
+</tgroup><caption>Summary of isotopes of hydrogen. </caption>
+</table>
+    
+    <section id="id7237389">
+      <title>Synthesis of deuterium compounds</title>
+      <section id="id8962237">
+        <title>Electrolysis of water</title>
+        <para id="id1170939931517">The electrolysis of hydrogen-1 water (H<sub>2</sub>O) in the presence of an alkali results in the formation of hydrogen and oxygen. </para>
+        
+        <equation id="eip-625"><media id="id1170940964512_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics1-2b21.jpg" id="id1170940964512__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><para id="id1170942117112">In a similar manner the hydrolysis of deuterated water (D<sub>2</sub>O) yields deuterium and oxygen. </para>
+        
+        <equation id="eip-474"><media id="id1170940032339_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics2-ea0c.jpg" id="id1170940032339__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation><para id="id1170939934242">However, the rate of electrolysis of D<sub>2</sub>O is slightly slower than that of H<sub>2</sub>O. Thus, the partial hydrolysis of water with a mixture of natural isotopes results in the slight enrichment of the water with D<sub>2</sub>O. The level of enrichment in one step is less than 1%. In order to obtain high levels of D<sub>2</sub>O (e.g., ca. 30%) it is necessary to reduce the original volume of water by 1/100,000<sup>th</sup>. </para>
+      </section>
+      <section id="id1170939964475">
+        <title>Chemical equilibrium</title>
+        <para id="id9009634">Proton exchange reactions can be used to enrich compounds in deuterium. For example, the reaction of HSD with water shown in <link target-id="eip-263"/> has a slight preference for the formation of H<sub>2</sub>S, i.e., K<sub>eq</sub> = 1.012. Thus, bubbling HSD through water results in the enrichment of the water in HOD. However, about 30% enrichment is about the best that can be achieved by this method. </para><equation id="eip-263"><media id="id8203599_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics3-e210.jpg" id="id8203599__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+        
+      </section>
+      <section id="id1170940962299">
+        <title>Fractional distillation</title>
+        <para id="id7221030">The boiling point of H<sub>2</sub>O is (by definition) 100 °C, in contrast the boiling point of D<sub>2</sub>O is 101.4 °C. Thus, it is possible to separate H<sub>2</sub>O from D<sub>2</sub>O by fractional distillation. This method provides the most suitable route to high isotopic enrichment and D<sub>2</sub>O of 99.8% can be produced this way. </para><note id="eip-699">The term <emphasis effect="italics">heavy water</emphasis> is used for D<sub>2</sub>O of greater than 99.8% enrichment. </note>
+        
+      </section>
+    </section>
+    <section id="id8000166">
+      <title>Uses of deuterium compounds</title>
+      <section id="id8222182">
+        <title>Possible nuclear fusion</title>
+        <para id="id1170939960756">The largest use of D<sub>2</sub>O is as a moderator and heat exchanger for fission nuclear reactors, however, the biggest potential application will be if nuclear fusion is realized as a commercial process. </para>
+        <para id="id1170940041232">The fusion of two deuterium atoms to form a helium atom and energy would be one source of energy, <link target-id="eip-13"/>, however, deuterium-tritium fusion is the most promising, <link target-id="eip-570"/>. </para>
+        
+        <equation id="eip-13"><media id="id9026571_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics4-03c7.jpg" id="id9026571__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+        <equation id="eip-570"><media id="id1170939532615_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics5-5a15.jpg" id="id1170939532615__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation><para id="id1170940774474">The deuterium part of the fuel does not pose a great problem because about 1 part in 5000 of the hydrogen in seawater is deuterium. This amounts to an estimate that there is over 10<sup>15</sup> tons of deuterium in the oceans. The tritium part of the fuel is more problematic since there is no significant natural source (<link target-id="id8749808"/>), and the tritium would have to be obtained by breeding the tritium from lithium.</para>
+        
+        <equation id="eip-309"><media id="id1170941863567_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics6-abec.jpg" id="id1170941863567__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation><para id="id8922304">Since a gallon of seawater could produce as much energy as 300 gallons of gasoline, there is clearly a large amount of energy that can potentially be realized through nuclear fusion. Unfortunately, this advantage is also a disadvantage since the temperatures attained are similar to the surface of the sun, which would vaporize any conventional container. Fusion experiments therefore use a magnetic field to contain the reaction. The shape of the field is like a bottle, hence the term “magnetic bottle”. </para>
+        <para id="id1170941950290">One demonstrated fusion process is the so-called hydrogen bomb or thermonuclear bomb in which a fission atom bomb is used to initiate a fusion reaction. The atomic bomb is surrounded by a layer of lithium deuteride. Neutrons from the atomic explosion (fission) cause the lithium to be converted into helium, tritium, and energy, <link target-id="eip-309"/>. The atomic explosion also supplies the 50,000,000 °C temperature needed for the subsequent fusion of deuterium with tritium, <link target-id="eip-570"/>. So in-fact the hydrogen bomb is misnamed and it should be called a deuterium bomb. </para><note id="eip-936">The original calculations to model the hydrogen bomb were performed using ENIAC (short for Electronic Numerical Integrator And Computer) that was originally designed to generate tables of trajectories of shells fired from large artillery. The artillery firing tables were made by women mathematicians who were called “calculators” – hence the name used today. Built in 1946 ENIAC is often assumed to be the first programmable electronic computer, however, it was predated by the six Colossus machines that were used to successfully crack the German Enigma code as early as 1944. However, the existence of the Colossus machines was kept secret until 1975. </note>
+        
+      </section>
+      <section id="id1170939533631">
+        <title>Spectroscopy</title>
+        <para id="id8964282">In the chemical laboratory deuterium compounds are commonly used in spectroscopy for: </para>
+        <list id="id1170942048777" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+          <item id="id1170941077014">The assignment of resonances in IR, Raman, and NMR spectroscopy. </item>
+          <item>As a non-proton containing solvent in <sup>1</sup>H NMR spectroscopy. </item>
+        </list><para id="eip-838">A description of these applications is given below. </para>
+      </section>
+      <section id="id1170941065416">
+        <title>Reaction mechanism and rate determination</title>
+        <para id="id1170941051901">Given the larger mass of deuterium over hydrogen there is an associated difference in the rate of reactions (see below) and therefore investigations using hydrogen and deuterium analogs can provide information as to reaction mechanisms. </para>
+        <para id="id9059512">The spectroscopic differences between hydrogen and deuterium can also be used as a tracer to uniquely determine the source of particular substituents. For example, the magnesium (or Grignard) reduction of a ketone yields upon hydrolysis the secondary alcohol. If the reaction is carried out in a deuterated solvent and H<sub>2</sub>O used for hydrolysis then the secondary carbon is deuterated, <link target-id="eip-538"/>. In contrast, if the reaction is carried out in a non-deuterated solvent and hydrolysis is accomplished with D<sub>2</sub>O then the deuterated alcohol is formed, <link target-id="eip-432"/>. These experiments define that the initial reduction occurs at the ketone’s α-carbon. </para>
+        
+        <equation id="eip-538"><media id="id1170940831553_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics7-8d87.jpg" id="id1170940831553__onlineimage" width="400" print-width="3.5in"/>
+          </media></equation>
+        <equation id="eip-432"><media id="id1170939932254_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics8-630a.jpg" id="id1170939932254__onlineimage" width="400" print-width="3.5in"/>
+          </media></equation>
+
+
+<exercise id="eip-503">
+
+<problem id="eip-631">
+
+<para id="id1170937321840">Given the following reactions and the isotope distribution of the products suggest the reaction mechanism. </para>
+<para id="eip-792">
+<media id="id1170940815066_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics9-7138.jpg" id="id1170940815066__onlineimage" width="475" print-width="4.5in"/>
+          </media>
+</para>
+
+
+</problem>
+
+
+
+
+<solution id="eip-752">
+  
+   <list id="eip-829" list-type="enumerated" number-style="arabic" class="stepwise"><item><media id="id1170937394466_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics10-8558.jpg" id="id1170937394466__onlineimage" width="475" print-width="4.5in"/>
+            </media></item>
+<item>          <media id="id1170935386428_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics11-4afd.jpg" id="id1170935386428__onlineimage" width="475" print-width="4.5in"/>
+          </media></item>
+<item>          <media id="id1170937731588_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics12-2d12.jpg" id="id1170937731588__onlineimage" width="475" print-width="4.5in"/>
+          </media></item></list>
+  
+  
+</solution>
+</exercise>
+
+
+        
+        
+
+
+        
+
+
+      
+
+
+
+
+      </section>
+    </section>
+    <section id="id1170937394145">
+      <title>Differences between hydrogen and deuterium</title>
+      <section id="id1170939843267">
+        <title>Properties that depend on nuclei properties</title>
+        <para id="id1170937401618">The nuclear magnetic moment of an atomic nucleus arises from the spins of the protons and neutrons within the nucleus. As a consequence the magnetic moment for hydrogen and deuterium are very different and hence the conditions for detection by NMR are very different. Thus, in observing the <sup>1</sup>H NMR spectrum of a compound not only are the deuterium atoms not observed, but the coupling is now H-D rather than H-H (<link target-id="id1170937387719"/>). </para>
+
+          <figure id="id1170937387719"><media id="id1170937387719_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics13-2269.jpg" id="id1170937387719__onlineimage" width="500" print-width="4in"/>
+            </media>
+          <caption>An example of the differences in the <sup>1</sup>H NMR spectrum upon deuterium substitution. </caption></figure>
+
+        
+        <para id="id1170940726584">Deuterium is better at scattering neutrons than hydrogen. The H and D cross sections are very distinct and different in sign, which allows contrast variation in such experiments. Hydrogen’s low electron density makes it difficult to determine its position by X-ray diffraction methods, neutron diffraction methods allow for highly accurate structure determination. Hydrogen can be seen by neutron diffraction and scattering, however, it has a large incoherent neutron cross-section. This is nil for deuterium and thus delivers much clearer signals may be obtained for deuterated samples. Neutron scattering of deuterated samples is indispensable for many studies of macromolecules in biology.</para>
+      </section>
+      <section id="id1170935407740">
+        <title>Properties that depend on mass</title>
+        <para id="id1170937450086">The difference in mass between hydrogen and deuterium obviously results in a difference in molecular mass of their analogous compounds. This difference can be used for analysis by mass spectrometry, but it also results in different densities of compounds. For example, the density of H<sub>2</sub>O at 25 °C is 0.997 g/cm<sup>3</sup>, while the density of D<sub>2</sub>O at 25 °C is 1.104 g/cm<sup>3</sup>. </para>
+        <para id="id7213687">The vibrational frequency for a diatomic molecule, H-X, can be defined by the equation: </para>
+        
+        <equation id="eip-418"><media id="id1170940877891_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics14-8780.jpg" id="id1170940877891__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation><para id="id2289515">where f<sub>H-X</sub> is the H-X bond force constant, and µ<sub>H-X</sub> is the reduced mass.</para>
+        
+        <equation id="eip-319"><media id="id1170940034329_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics15-d89c.jpg" id="id1170940034329__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation><para id="id1170937734061">If substitute H for D the D-X force constant is the same as the H-X force constant, but the reduced mass is twice the value for the H-X bond. As a result the ratio of the vibrational frequency of an H-X bond to that of the analogous D-X bond is given by the following equation. </para>
+        
+        <equation id="eip-955"><media id="id6303912_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics16-bf05.jpg" id="id6303912__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation><para id="id7686017">With the change in vibrational energy there is concomitant change in the bond strength. </para>
+        
+        <equation id="eip-219"><media id="id7775678_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Eqnew.jpg" id="id7775678__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation><para id="id6638815">Thus, the rate of reactions will be faster for hydrogen derivative than the deuterium analog. The ratio of the rate constants will be dependant on the involvement of H-X bond breaking or forming in the rate limiting step (the slowest reaction step within the overall reaction mechanism). When an H-X bond is made or broken in the rate limiting step, then the ratio of the rate constants upon deuterium substitution will be: </para>
+        
+        <equation id="eip-993"><media id="id6324760_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics18-c91a.jpg" id="id6324760__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation><para id="id5099928">This is known as the <emphasis effect="italics">primary isotope effect</emphasis>. In this case where H-X bond breaking or forming is not part of the rate limiting step, then the isotope effect will be much smaller and is known as a <emphasis effect="italics">secondary isotope effect</emphasis>. </para>
+        <para id="id6285429">The position of equilibrium reactions that involve hydrogen exchange, <link target-id="eip-696"/>, will be effected by the presence of deuterium to favor the deuterium being concentrated in the more stable bond. This is the basis of the concentration of HOD from HSD and water, <link target-id="eip-263"/>. </para>
+        
+        <equation id="eip-696"><media id="id7925213_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics19-f71a.jpg" id="id7925213__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+      </section>
+    </section>
+    <section id="id1170940918453">
+      <title>Bibliography</title>
+      <list id="id6688546" list-type="bulleted">
+        <item>M. B. Power, S. G. Bott, J. L. Atwood, and A. R. Barron. <emphasis effect="italics">J. Am. Chem. Soc.</emphasis>, 1990, <emphasis effect="bold">112</emphasis>, 3446.</item>
+        <item id="id6716076">A. S. Borovik and A. R. Barron, <emphasis effect="italics">Main Group Chem</emphasis>. 2005, <emphasis effect="bold">4</emphasis>, 135. </item>
+      </list>
+    </section>
+  </content>
+</document>

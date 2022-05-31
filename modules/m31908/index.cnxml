@@ -1,0 +1,79 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>The Physical Properties of Hydrogen</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m31908</md:content-id>
+  <md:title>The Physical Properties of Hydrogen</md:title>
+  <md:abstract/>
+  <md:uuid>aa597f1c-551b-443a-8fed-57d317faf97a</md:uuid>
+</metadata>
+
+<content>
+    <table id="id5964793" summary="Physical properties of hydrogen.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry>Chemical symbol</entry>
+            <entry>H</entry>
+          </row>
+          <row>
+            <entry>Atomic number</entry>
+            <entry>1</entry>
+          </row>
+          <row>
+            <entry>Electron configuration</entry>
+            <entry>1s<sup>1</sup></entry>
+          </row>
+          <row>
+            <entry>Atomic weight</entry>
+            <entry>1.00794</entry>
+          </row>
+          <row>
+            <entry>Melting point</entry>
+            <entry>-259 °C</entry>
+          </row>
+          <row>
+            <entry>Boiling point</entry>
+            <entry>-253 °C</entry>
+          </row>
+          <row>
+            <entry>Density (gas)</entry>
+            <entry>0.090 g/L </entry>
+          </row>
+          <row>
+            <entry>Density (liquid)</entry>
+            <entry>0.070 g/L</entry>
+          </row>
+          <row>
+            <entry>Ionization potential</entry>
+            <entry>13.598 eV</entry>
+          </row>
+          <row>
+            <entry>Pauling electronegativity</entry>
+            <entry>2.1</entry>
+          </row>
+          <row>
+            <entry>Ionic radius (H<sup>-</sup>)</entry>
+            <entry>1.54 Å</entry>
+          </row>
+          <row>
+            <entry>van der Waal radius</entry>
+            <entry>1.2 Å</entry>
+          </row>
+          <row>
+    <entry>Explosive limit</entry>
+    <entry>4 - 75%</entry>
+  </row>
+  <row>
+    <entry>Ignition temperature</entry>
+    <entry>585 °C</entry>
+  </row>
+</tbody>
+      
+
+
+</tgroup><caption>Physical properties of hydrogen. </caption>
+</table>
+    
+  </content>
+</document>

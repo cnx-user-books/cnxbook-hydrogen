@@ -1,0 +1,226 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>The Proton</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m31441</md:content-id>
+  <md:title>The Proton</md:title>
+  <md:abstract/>
+  <md:uuid>0a6825cf-4567-4100-a47e-a4fdc37c53f2</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1168762255478">The proton, H<sup>+</sup>, is the name given to hydrogen in the +1 oxidation state. </para>
+    <section id="id1168762776327">
+      <title>Gas phase</title>
+      <para id="id1168763277050">The proton can be formed from the photolysis of atomic hydrogen in the vapor phase at low pressure. </para>
+      
+      <equation id="eip-741"><media id="id5029506_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-e0af.jpg" id="id5029506__onlineimage" width="550" print-width="4.5in"/>
+        </media>
+      </equation><para id="id2549585">The proton is more reactive than the hydrogen atom because of its high charge density. In addition, the proton’s small ionic radius, 1.5 x 10<sup>-15</sup> cm, means that it can get close to other atoms and hence form strong bonds. </para>
+      
+      <equation id="eip-586"><media id="id1168759527310_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-7b00.jpg" id="id1168759527310__onlineimage" width="550" print-width="4.5in"/>
+        </media></equation><para id="id1168763987261">The strength of the bonding interaction is such that it is very hard to measure directly. Instead the relative bond strength between the proton and an appropriate base, B<sub>1</sub>, is measured in the presence of a competing base, B<sub>2</sub>. </para>
+      
+      <equation id="eip-764"><media id="id1168760364247_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics3-cee2.jpg" id="id1168760364247__onlineimage" width="550" print-width="4.5in"/>
+        </media>
+</equation><para id="id1168763211676">In measuring the exchange reaction, the <emphasis effect="italics">relative proton affinity</emphasis> of B<sub>1</sub> and B<sub>2</sub> is measured. This is also known as the gas phase acidity, and as such it is a measure of the inherent acidity of a species X-H because it obviates any solvent effects. </para>
+    </section>
+    <section id="id1168760964550">
+      <title>Liquid and solution</title>
+      <para id="id1168759855490">The high reactivity of the proton means that it does not exist <emphasis effect="italics">free</emphasis> in solution. There are however many H<sup>+</sup> containing species. These are generally classified as <emphasis effect="italics">acids</emphasis>. </para>
+      
+      <equation id="eip-909"><media id="id1168759824500_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics4-6996.jpg" id="id1168759824500__onlineimage" width="550" print-width="4.5in"/>
+        </media>
+      </equation><para id="id1168762557654">The reaction between the acid and the base is a proton transfer reaction. While the proton travels from B<sub>1</sub> to B<sub>2</sub>, it is never free in solution. Instead a bridged transition state or intermediate is formed, B<sub>1</sub><sup>…</sup>H<sup>+…</sup>B<sub>2</sub>. </para>
+      <section id="id1168760060722">
+        <title>Acidity and pH</title>
+        <para id="id1168763826153">The most common solvent for H<sup>+</sup> is water. The acid form is usually defined as the hydronium ion or H<sub>3</sub>O<sup>+</sup>, <link target-id="eip-454"/>. The terms oxonium, hydroxonium and oxidanium are also used for the H<sub>3</sub>O<sup>+</sup>. Although we commonly use H<sub>3</sub>O<sup>+</sup> it is known from spectroscopy that larger complexes are formed such as H<sub>9</sub>O<sub>4</sub><sup>+</sup> (<link target-id="id1168762939399"/>). </para>
+        
+        <equation id="eip-454"><media id="id1168761708601_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics5-b22d.jpg" id="id1168761708601__onlineimage" width="550" print-width="4.5in"/>
+          </media>
+        </equation>
+
+          <figure id="id1168762939399"><media id="id1168762939399_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics6-c76d.jpg" id="id1168762939399__onlineimage" width="250" print-width="2in"/>
+            </media>
+          <caption>Structure of H<sub>9</sub>O<sub>4</sub><sup>+</sup>. </caption></figure>
+        
+        <para id="id1168759539264">Acids and bases have been characterized in a number of different ways. In 1680 Robert Boyle (<link target-id="id1168766035415"/>) defined an acid as a compound that dissolved many other compounds, had a sour taste, and reacted with alkali (base). </para>
+        <figure id="id1168766035415"><media id="id1168766035415_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics7-b1e3.jpg" id="id1168766035415__onlineimage" width="300" print-width="2in"/>
+          </media>
+        <caption>Portrait of Robert Boyle (1627 – 1691). </caption></figure>
+        
+        <para id="id1168770884258">Boyle’s simple observational description was rationalized by Danish physical chemist Johannes Brønsted (<link target-id="id7841377"/>). Brønsted proposed that acids are <emphasis effect="italics">proton donors</emphasis>, and bases are <emphasis effect="italics">proton acceptors</emphasis>. An acid-base reaction is one in which a proton is transferred from a proton donor (acid) to a proton acceptor (base). Based upon Brønsted’s proposal simple acids contain an ionizable proton. Examples of simple acids include neutral molecules (HCl, H<sub>2</sub>SO<sub>4</sub>), anions (HSO<sub>4</sub><sup>-</sup>, H<sub>2</sub>PO<sub>4</sub><sup>-</sup>), and cations (NH<sub>4</sub><sup>+</sup>). The most common Brønsted bases include metal hydroxides (MOH).</para>
+          <figure id="id7841377"><media id="id7841377_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics8-0e53.jpg" id="id7841377__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>Johannes Nicolaus Brønsted (1879 –1947). </caption></figure>
+        
+        <para id="id1168760057469">Brønsted noted that when an acid donates a proton it forms a conjugate base. The following are examples of an acid and its conjugate base. </para>
+        
+        <equation id="eip-377"><media id="id1168764717583_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Correct-06a5.jpg" id="id1168764717583__onlineimage" width="550" print-width="4.5in"/>
+          </media></equation>
+        <equation id="eip-502"><media id="id1168766689588_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics10-6b77.jpg" id="id1168766689588__onlineimage" width="550" print-width="4.5in"/>
+          </media></equation>
+        <equation id="eip-870"><media id="id1168769996240_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics11-315d.jpg" id="id1168769996240__onlineimage" width="550" print-width="4.5in"/>
+          </media>
+        </equation>
+        
+        <exercise id="eip-605"><problem id="eip-843">
+  <para id="eip-200">
+    What is the conjugate base of HCl? 
+  </para>
+</problem>
+
+<solution id="eip-179">
+  <para id="eip-597">
+    Cl<sup>-</sup>
+  </para>
+</solution>
+</exercise>
+        
+        
+        <exercise id="eip-84"><problem id="eip-133">
+  <para id="eip-124">
+   What is the conjugate base of HSO<sub>4</sub><sup>-</sup>? 
+  </para>
+</problem>
+
+<solution id="eip-467">
+  <para id="eip-897">
+    SO<sub>4</sub><sup>2-</sup>
+  </para>
+</solution>
+</exercise>
+        
+        <exercise id="eip-901"><problem id="eip-44">
+  <para id="eip-848">
+    What is the conjugate base of [Al(H<sub>2</sub>O)<sub>6</sub>]<sup>3+</sup>? 
+  </para>
+</problem>
+
+<solution id="eip-614">
+  <para id="eip-980">
+    [Al(H<sub>2</sub>O)<sub>5</sub>(OH)]<sup>2+</sup>
+  </para>
+</solution>
+</exercise><para id="id7612851">The same occurs when a base accepts a proton it forms a conjugate acid. The following are examples of a base and its conjugate acid. </para>
+        
+        <equation id="eip-19"><media id="id1168762937169_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics12-9e09.jpg" id="id1168762937169__onlineimage" width="550" print-width="4.5in"/>
+            </media>
+          </equation>
+        <equation id="eip-257"><media id="id3170859_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics13-a194.jpg" id="id3170859__onlineimage" width="550" print-width="4.5in"/>
+          </media>
+        </equation>
+        <equation id="eip-343"><media id="id1168759474468_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics14-be13.jpg" id="id1168759474468__onlineimage" width="550" print-width="4.5in"/>
+          </media>
+        </equation><exercise id="eip-195"><problem id="eip-540">
+  <para id="eip-678">
+    What is the conjugate acid of NH<sub>3</sub>? 
+  </para>
+</problem>
+
+<solution id="eip-701">
+  <para id="eip-598">
+   NH<sub>4</sub><sup>+</sup>
+  </para>
+</solution>
+</exercise>
+        
+        
+        
+        
+        
+        <exercise id="eip-772"><problem id="eip-527">
+  <para id="eip-142">
+    What is the conjugate acid of S<sup>2-</sup>? 
+  </para>
+</problem>
+
+<solution id="eip-81">
+  <para id="eip-806">
+   HS<sup>-</sup>
+  </para>
+</solution>
+</exercise>
+        
+        <exercise id="eip-436"><problem id="eip-939">
+  <para id="eip-34">
+What is the conjugate acid of CO<sub>3</sub><sup>2-</sup>? 
+  </para>
+</problem>
+
+<solution id="eip-122">
+  <para id="eip-836">
+    HCO<sub>3</sub><sup>-</sup>
+  </para>
+</solution>
+</exercise><para id="id4961736">Thus, the reaction between an acid and a base results in the formation of the appropriate conjugate base and conjugate acid. </para>
+        
+        <equation id="eip-761"><media id="id1168759628659_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics15-b5d5.jpg" id="id1168759628659__onlineimage" width="550" print-width="4.5in"/>
+          </media>
+        </equation><para id="id1168760805814">A specific example is as follows: </para>
+        
+        <equation id="eip-338"><media id="id1168763084159_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics16-329e.jpg" id="id1168763084159__onlineimage" width="550" print-width="4.5in"/>
+          </media>
+        </equation><exercise id="eip-697"><problem id="eip-876">
+  <para id="eip-867">
+  What is the conjugate acid and base formed from the reaction of NH<sub>4</sub><sup>+</sup> with S<sup>2-</sup>?
+  </para>
+</problem>
+
+<solution id="eip-21">
+  <para id="eip-924">
+    <media id="id1168762523482_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics17-f9af.jpg" id="id1168762523482__onlineimage" width="550" print-width="4.5in"/>
+          </media>
+  </para>
+</solution>
+</exercise>
+        
+        
+        
+        <para id="id1168760055555">In the equilibrium reactions shown in <link target-id="eip-761"/> and <link target-id="eip-338"/> there is a competition between the two bases for the proton. As would be expected the strongest base wins. </para>
+        <para id="id1168764668492">When a strong acid is added to (dissolved in) water it will react with the water as a base: </para>
+        
+        <equation id="eip-386"><media id="id1168759208495_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics18-2f38.jpg" id="id1168759208495__onlineimage" width="550" print-width="4.5in"/>
+            </media></equation><para id="id8981271">In contrast, when a strong base is added to (dissolved in) water it will react with the water as an acid:</para><equation id="eip-566"><media id="id8316814_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics19-7507.jpg" id="id8316814__onlineimage" width="550" print-width="4.5in"/>
+          </media></equation>
+        
+      </section>
+      <section id="id1168768071944">
+        <title>pH a measure of acidity</title>
+        <para id="id1168767996252">The acidity of a water (aqueous) solution depends on the concentration of the hydronium ion, i.e., [H<sub>3</sub>O<sup>+</sup>]. The acidity of a solution is therefore the ability of the solution to donate a proton to a base. The acidity or pH of a solution is defined as: </para>
+        
+        <equation id="eip-450"><media id="id1168761600145_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics20.jpg" id="id1168761600145__onlineimage" width="550" print-width="4.5in"/>
+          </media></equation><para id="id2524524">It is important to note that the value is the <emphasis effect="italics">activity</emphasis> of H<sub>3</sub>O<sup>+</sup> and not the <emphasis effect="italics">concentration</emphasis>. </para>
+        
+        <note id="eip-825">Activity is a measure of the “effective concentration” of a species in a mixture. The difference between activity and other measures of composition such as concentration arises because molecules in non-ideal gases or solutions interact with each other, either to attract or to repel each other.</note><para id="id1168761703765">The activity of the H<sub>3</sub>O<sup>+</sup> ion can be measured by </para>
+        <list id="id1168762154933" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")">
+          <item>A glass electrode. </item>
+          <item>Acid-base indicators. </item>
+        </list>
+      </section>
+      <section id="id1168766080507">
+        <title>Proton Transfer Reactions</title>
+        <para id="id1168770862729">The proton transfer reaction is one of the simplest reactions in chemistry. It involves no electrons and low mass transfer/change, giving it a low energy of activation. For proton transfer between O-H or N-H groups and their associated bases the reaction is very fast. The proton transfer occurs across a hydrogen-bonded pathway during which the proton is never free. </para>
+      </section>
+    </section>
+  </content>
+</document>

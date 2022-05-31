@@ -1,0 +1,47 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Nuclear Fusion</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m31443</md:content-id>
+  <md:title>Nuclear Fusion</md:title>
+  <md:abstract/>
+  <md:uuid>2d4908a2-cd0c-4809-a402-d997cca6d2d2</md:uuid>
+</metadata>
+
+<content>
+    
+    <para id="id1164379620349">The process of nuclear fission and radioactive decay are both associated with the conversion of an atom with a large nucleus to an atom (or atoms) with a smaller nucleus. In the process, mass is lost and energy is produced. However, what happens if two atoms with small nuclei are combined to give a single atom with a larger nucleus? In such a process the nuclei would be fused together, and this process is called nuclear fusion. </para>
+    <para id="id1164381088517">One of the simplest fusion processes involves the fusing of two hydrogen-2 (deuterium) atoms: </para>
+    
+    <equation id="eip-178"><media id="id1164379727154_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-ff87.jpg" id="id1164379727154__onlineimage" width="500" print-width="4.5in"/>
+      </media>
+</equation><para id="id1164379809788">The mass of each deuterium atom is 2.0140 amu, while the mass of the resulting helium is 4.0026 amu. The mass defect of the reaction is 0.0254 amu or 0.63% of the original mass. While this percentage of the original mass may not seem much, it should be noted that the mass defect for the conversion of uranium-238 to lead-206 is only 0.026%, and that for splitting uranium-235 is 0.056%. Based upon these comparisons it is clear that fusion of hydrogen produces 24x the energy kg/kg than natural radioactivity and 11x that of nuclear fission. </para>
+    <para id="id1164381166447">In addition to being a plentiful source of energy, fusion is actually the most important process in the universe. Since the statement in 1847 of the Law of conservation of energy (the total amount of energy in an isolated system remains constant) scientists had wondered how the sun works. No source of energy was known in the 19<sup>th</sup> century that could explain the sun. Based upon the age of the earth it is known that the sun is 4,550,000,000 years old, and it was marveled at the continued source of energy over that span of time. By the 1920s nuclear energy was defined as being the most powerful source of energy, and British astrophysicist Arthur Eddington (<link target-id="id1164381156064"/>) suggested that the sun’s energy arises from the fusion of hydrogen into helium. </para>
+
+      <figure id="id1164381156064"><media id="id1164381156064_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-3509.jpg" id="id1164381156064__onlineimage" width="300" print-width="2in"/>
+        </media>
+      <caption>Arthur Stanley Eddington (1882 –1944). </caption></figure>
+    
+    <para id="id1164383097524">In 1929 American Henry Norris Russell (<link target-id=" id1164383343953"/>) studied the spectrum of the sun. Based upon his studies he calculated the composition of the sun to be 90% hydrogen, 9% helium, and 1% of all other elements up to iron (but nothing of higher atomic number). Given the composition it became clear that the only reaction possible to account for the sun’s energy was the fusion of hydrogen. In 1938 Hans Bethe (<link target-id=" id1164382348346"/>) demonstrated a model for how the sun worked. The energy source is the fusion of hydrogen to give helium (<link target-id="id1164381117768 "/>), while in massive starts the presence of heavier elements such as carbon, oxygen, nitrogen, neon, silicon, and iron are the result of the fusion of helium. </para>
+
+      <figure id="id1164383343953"><media id="id1164383343953_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics3-af98.jpg" id="id1164383343953__onlineimage" width="300" print-width="2in"/>
+        </media>
+      <caption>Henry Norris Russell (1877 - 1957). </caption></figure>
+    
+      <figure id="id1164382348346"><media id="id1164382348346_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics4-e825.jpg" id="id1164382348346__onlineimage" width="300" print-width="2in"/>
+        </media>
+      <caption>Hans Albrecht Bethe (1906 - 2005). </caption></figure>
+    
+    <figure id="id1164381117768"><media id="id1164381117768_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics5-5d50.jpg" id="id1164381117768__onlineimage" width="450" print-width="4in"/>
+      </media>
+    <caption>The proton-proton chain dominates in stars the size of the Sun or smaller.</caption></figure>
+    
+    
+    <para id="id1164387031167">Why is it that uranium, thorium and other radioactive elements undergo radioactive decay, but hydrogen does not undergo spontaneous fusion? The reason for this difference is that any change that uranium undergoes occurs inside a nucleus that is already formed, while fusion requires that two nuclei must come together. This process results in extremely large repulsive forces. So why does it happen in a star? The temperatures inside a star approach 15,000,000 °C, while the high pressure results in a density of approximately 160 g/cm<sup>3</sup> which for comparison is 8x that of gold. Under these conditions the nuclei are free to move in a sea of electrons. Nuclear fusion takes place in the core of the sun where the density is at the highest but an explosion does not result due to the extreme gravity of the sun: 333,000x that of Earth. </para>
+    <para id="id1164380860891">Research into controlled fusion, with the aim of producing fusion power for the production of electricity, has been conducted for over 50 years. It has been accompanied by extreme scientific and technological difficulties, but has resulted in progress. At present, break-even (self-sustaining) controlled fusion reactions have not been demonstrated, however, work continues since the fuel for such a fusion reaction is hydrogen (in its compounds including water) is the 3<sup>rd</sup> most abundant element on the Earth. </para>
+  </content>
+</document>

@@ -1,0 +1,190 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Hydrides</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m31549</md:content-id>
+  <md:title>Hydrides</md:title>
+  <md:abstract/>
+  <md:uuid>f0a2c724-9b81-4011-8d34-96def70796a9</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1163969804567">The combination of hydrogen with another element produces a hydride, E<sub>x</sub>H<sub>y</sub>. The formal charge or oxidation state of the hydrogen in these compounds is dependant on the relative electronegativity of the element in question. </para>
+    <section id="id1163972694135">
+      <title>Ionic hydrides</title>
+      <para id="id1163974683339">Hydrogen compounds with highly electropositive metals, i.e., those in which the metal has an electronegativity of less than 1.2, are ionic with the hydrogen having a s<sup>2</sup> configuration (H<sup>-</sup>). Typical ionic metal hydrides are those of the Group 1 (IA) metals and the heavier Group 2 (IIA) metals. </para>
+      <para id="id1163975317111">The ionic radius of the hydride ion is in between that of fluoride and chloride and the same as oxide (<link target-id="id1163974475608"/>). As a consequence, in the solid state the hydride ion replicates that of a halide ion (e.g., Cl<sup>-</sup>), and as such similar solid state structures are observed (<link target-id="id1163974361531"/>). </para>
+      <table id="id1163974475608" summary="Selected ionic radii.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Ion</emphasis></entry>
+              <entry><emphasis effect="bold">Ionic radius (Å)</emphasis> </entry>
+            </row>
+            <row>
+              <entry>H<sup>-</sup></entry>
+              <entry>1.40</entry>
+            </row>
+            <row>
+              <entry>F<sup>-</sup></entry>
+              <entry>1.36</entry>
+            </row>
+            <row>
+              <entry>Cl<sup>-</sup></entry>
+              <entry>1.81</entry>
+            </row>
+            <row>
+              <entry>O<sup>2-</sup></entry>
+              <entry>1.40</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Selected ionic radii. </caption>
+</table>
+      
+      <table id="id1163974361531" summary="Lattice parameters for hydrides, and halides of the Group 1 metal salts with cubic rock salt structures.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Metal</emphasis> </entry>
+              <entry><emphasis effect="bold">Hydride</emphasis> </entry>
+              <entry><emphasis effect="bold">Fluoride</emphasis> </entry>
+              <entry><emphasis effect="bold">Chloride</emphasis> </entry>
+            </row>
+            <row>
+              <entry>Li</entry>
+              <entry>4.085</entry>
+              <entry>4.0173</entry>
+              <entry>5.129</entry>
+            </row>
+            <row>
+              <entry>Na</entry>
+              <entry>4.880</entry>
+              <entry>4.620</entry>
+              <entry>5.640</entry>
+            </row>
+            <row>
+              <entry>K</entry>
+              <entry>5.700</entry>
+              <entry>5.347</entry>
+              <entry>6.292</entry>
+            </row>
+            <row>
+              <entry>Rb</entry>
+              <entry>6.037</entry>
+              <entry>5.640</entry>
+              <entry>6.581</entry>
+            </row>
+            <row>
+              <entry>Cs</entry>
+              <entry>6.376</entry>
+              <entry>6.008</entry>
+              <entry>7.020</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Lattice parameters (Å) for hydrides, and halides of the Group 1 metal salts with cubic rock salt structures. </caption>
+</table>
+      
+      <para id="id1163971145384">Unlike the halide ions that are soluble in water, the hydride ion reacts with water, <link target-id="eip-531"/>, and consequently NaH and CaH<sub>2</sub> are commonly used as drying agents. The liberation of hydrogen was used as a commercial source of hydrogen for small-scale applications. </para>
+      
+      <equation id="eip-531"><media id="id1163971147474_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-2b05.jpg" id="id1163971147474__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+<note id="eip-20" type="warning">Group 1 and 2 metal hydrides can ignite in air, especially upon contact with water to release hydrogen, which is also flammable. Hydrolysis converts the hydride into the analogous hydroxide, which are caustic bases. In practice, most ionic hydrides are dispensed as a dispersion in oil, which can be safely handled in air. </note>
+    </section>
+    <section id="id1163972903133">
+      <title>Covalent hydrides</title>
+      <para id="id1163969759010">The most common binary compounds of hydrogen are those in which hydrogen bonds have covalent bond character. The E-H bond is usually polar ranging from those in which the hydrogen is polarized positively (e.g., those with non-metals such as F, O, S, and C) to where it is negative (e.g., those with metals and metalloids such as B, Al, etc). Magnesium hydride is intermediate between covalent and ionic since it has a polymeric solid similar to AlH<sub>3</sub>, but reacts rapidly with water like ionic hydrides. <link target-id="id1163971285652"/> lists the important covalent hydrides of p-block elements. It should be noted that all organic hydrocarbons can be thought of as simply the hydrides of carbon! </para>
+      <table id="id1163971285652" summary="Important covalent hydrides of the p-block elements.">
+<tgroup cols="5"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Group 13</emphasis> </entry>
+              <entry><emphasis effect="bold">Group 14</emphasis> </entry>
+              <entry><emphasis effect="bold">Group 15</emphasis> </entry>
+              <entry><emphasis effect="bold">Group 16</emphasis> </entry>
+              <entry><emphasis effect="bold">Group 17</emphasis> </entry>
+            </row>
+            <row>
+              <entry>B<sub>2</sub>H<sub>6</sub></entry>
+              <entry>C<sub>n</sub>H<sub>2n+2</sub>, C<sub>n</sub>H<sub>2n</sub>, C<sub>n</sub>H<sub>2n-2</sub></entry>
+              <entry>NH<sub>3</sub>, N<sub>2</sub>H<sub>4</sub></entry>
+              <entry>H<sub>2</sub>O, H<sub>2</sub>O<sub>2</sub></entry>
+              <entry>HF</entry>
+            </row>
+            <row>
+              <entry>(AlH<sub>3</sub>)<sub>n</sub> </entry>
+              <entry>Si<sub>n</sub>H<sub>2n+2</sub> </entry>
+              <entry>PH<sub>3</sub>, P<sub>2</sub>H<sub>4</sub> </entry>
+              <entry>H<sub>2</sub>S, H<sub>2</sub>S<sub>n</sub></entry>
+              <entry>HCl</entry>
+            </row>
+            <row>
+              <entry>Ga<sub>2</sub>H<sub>6</sub></entry>
+              <entry>Ge<sub>n</sub>H<sub>2n+2</sub></entry>
+              <entry>AsH<sub>3</sub></entry>
+              <entry>H<sub>2</sub>Se</entry>
+              <entry>HBr</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>SnH<sub>4</sub></entry>
+              <entry>SbH<sub>3</sub></entry>
+              <entry>H<sub>2</sub>Te</entry>
+              <entry>HI</entry>
+            </row>
+          </tbody>
+        
+
+</tgroup><caption>Important covalent hydrides of the p-block elements. </caption>
+</table>
+      
+      <para id="id1163975682356">The elements of Group 14 to 17 all form hydrides with normal covalent bonds in which the hydrogen is bonded by a single bond to the element in question. In contrast, the elements of Group 13 (as typified by boron) all exhibit a second type of covalent bond: the electron deficient hydrogen bridged bond. In this type of bond the hydrogen nucleus is embedded in a molecular orbital that covers more than two atoms to create a multi-center two-electron bond. Diborane (<link target-id="id1163971373518"/>) represents the archetypal compound containing the hydrogen bridge bond. Hydrides are not limited to terminal (E-H) or those bridging two atoms (E-H-E), but are also known where the hydrogen bridges (or caps) more than two atoms, i.e., <link target-id="id123456"/>. </para>
+
+
+      <figure id="id1163971373518"><media id="id1163971373518_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-5e01.jpg" id="id1163971373518__onlineimage" width="250" print-width="2in"/>
+        </media>
+      <caption>Structure of diborane (B<sub>2</sub>H<sub>6</sub>); where pink = boron; white = hydrogen. </caption></figure>
+      
+
+
+      <figure id="id123456"><media id="id123456_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Fig2.jpg" id="id123456__onlineimage" width="300" print-width="2.5in"/>
+        </media>
+      <caption>The structure of {[(Me<sub>3</sub>P)<sub>3</sub>WH<sub>5</sub>]<sup>-</sup>Li<sup>+</sup>}<sub>4</sub> showing the presence of terminal, bridging, and trifurcated hydrides. The methyl groups have been omitted for clarity. Adapted from A. R. Barron, M. B. Hursthouse, M. Motevalli, and G. Wilkinson, <emphasis effect="italics">J. Chem. Soc., Chem. Commun.</emphasis>, 1986, 81. </caption></figure>
+
+
+
+      <section id="id1163972562808">
+        <title>Synthesis of covalent hydrides</title>
+        <para id="id1163972639075">Covalent hydrides can be made by a range of synthetic routes. The simplest is direct combination of the elements (in a similar manner to that used with ionic hydrides). </para>
+        
+        <equation id="eip-158"><media id="id1163974661030_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics3-b057.jpg" id="id1163974661030__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation><para id="id1163971475748">The use of a hydride as a reagent to reduce a halide or oxide of the desired element. </para>
+        
+        <equation id="eip-203"><media id="id1163974675823_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics4-a497.jpg" id="id1163974675823__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation><para id="id1163971101543">Metal phosphides, carbides, silicides, and borides result in the formation of the hydride. </para>
+        
+        <equation id="eip-484"><media id="id1163971103708_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Eq15.jpg" id="id1163971103708__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation><para id="id1163972623914">Hydride compounds can be interconverted in the presence of a catalyst, heat, or an electrical discharge. This is the basis of catalytic cracking of petroleum mixtures. </para>
+      </section>
+    </section>
+    <section id="id1163976601072">
+      <title>Interstitial hydrides </title>
+      <para id="id1163977298248">Many transition metal, lanthanides and actinides absorb hydrogen to give a metallic hydride which retain the properties of a metal, although the presence of hydrogen does result in embrittlement of the metal. As such these hydrides are best considered as alloys since they do not have defined stoichiometries. For example, vanadium absorbs hydrogen to form an alloy with a maximum hydrogen content of VH<sub>1.6</sub>. In a similar manner palladium forms PdH<sub>0.6</sub>. The hydrogen atoms are present in interstitial sites in the metal’s lattice; hence <emphasis effect="italics">interstitial hydride</emphasis>. Interstitial hydrides show certain promise as a way for safe hydrogen storage.</para>
+    </section><section id="eip-988"><title>Bibliography</title><list id="eip-416"><item>A. R. Barron, M. B. Hursthouse, M. Motevalli, and G. Wilkinson, <emphasis effect="italics">J. Chem. Soc., Chem. Commun.</emphasis>, 1986, 81.</item></list></section>
+  </content>
+</document>

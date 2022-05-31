@@ -1,0 +1,78 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+
+<title>Storage of Hydrogen for Use as a Fuel</title>
+<metadata>
+  <md:content-id>m32176</md:content-id><md:title>Storage of Hydrogen for Use as a Fuel</md:title>
+  <md:abstract/>
+  <md:uuid>af5c3626-d031-4d1a-afd7-45c6486873ea</md:uuid>
+</metadata>
+
+<content>
+<note id="eip-550">This module is based upon the Connexions course <emphasis effect="italics">Methods of Hydrogen Storage for Use as a Fuel Case Study</emphasis> by Christian Cioce. </note><section id="eip-866"><title>Introduction</title>
+
+
+
+<para id="id1170419898888">Dihydrogen is a colorless and odorless gas at room temperature which is highly flammable, releasing a large amount of energy when combusted. As compared with combustion of the current fuels which operate automobiles, for example petrol or diesel, the energy released when hydrogen is combusted is more than three times greater. The heat of combustion for hydrogen is 141.9 kJ/mol as compared to 47.0 kJ/mol and 45.0 kJ/mol for gasoline and diesel, respectively. </para>
+    <para id="id1170419550557">Furthermore, the combustion of hydrocarbons releases the greenhouse gas carbon dioxide (CO<sub>2</sub>) into the atmosphere, and is therefore not a "clean" fuel. When hydrogen is combusted in the presence of oxygen (from air) the only product is water, <link target-id="eip-101"/>. Both its clean reactivity and the large chemical energy make H<sub>2</sub> extremely appealing for use as a fuel in automobiles.</para>
+    <equation id="eip-101"><media id="id111222_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Eq1.jpg" id=" id111222__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+</equation>
+    
+    <para id="id1170412175301">If hydrogen has such a potential as a fuel why has it not been widely implemented? Dihydrogen is a gas at room temperature. Gases, compared to the other states of matter (liquid and solid), occupy the most volume of space, for a given number of molecules. Octane and the other hydrocarbons found in gasoline are liquids at room temperature, demanding relatively small fuel tanks. Liquids are therefore easier to store than compressed gases. </para>
+    <para id="id1170412751435">Hydrogen has a high energy content per weight (more than three times as much as gasoline), but the energy density per volume is rather low at standard temperature and pressure. Volumetric energy density can be increased by storing the gaseous hydrogen under increased pressure or storing it at extremely low temperatures as a liquid. Hydrogen can also be adsorbed into metal hydrides and highly porous materials (<link target-id="eip-954"/>). The current available methods of storing hydrogen include compressed hydrogen and liquefied hydrogen, however many promising methods exist, namely metal organic materials (MOMs), metal hydrides and carbon nanostructures.</para><table id="eip-954" summary="Comparison of hydrogen storage ability of metal hydrides.">
+<tgroup cols="3"><tbody>
+  <row>
+    <entry><emphasis effect="bold">Material</emphasis></entry>
+    <entry><emphasis effect="bold">H-atoms per cm<sup>3</sup> (x 10<sup>22</sup>)</emphasis></entry>
+    <entry><emphasis effect="bold">% of weight that is H<sub>2</sub> </emphasis></entry>
+  </row>
+  <row>
+    <entry>H<sub>2</sub> gas, 200 bar (2850 psi)</entry>
+    <entry>0.99</entry>
+    <entry>100</entry>
+  </row>
+  <row>
+    <entry>H<sub>2</sub> liquid, 20 K (-253 °C)</entry>
+    <entry>4.2</entry>
+    <entry>100</entry>
+  </row>
+  <row>
+    <entry>H<sub>2</sub> solid, 4.2 K (-269 °C)</entry>
+    <entry>5.3</entry>
+    <entry>100</entry>
+  </row>
+  <row>
+    <entry>MgH<sub>2</sub></entry>
+    <entry>6.5</entry>
+    <entry>7.6</entry>
+  </row>
+  <row>
+    <entry>Mg<sub>2</sub>NiH<sub>4</sub></entry>
+    <entry>5.9</entry>
+    <entry>3.6</entry>
+  </row>
+  <row>
+    <entry>FeTiH<sub>2</sub></entry>
+    <entry>6.0</entry>
+    <entry>1.89</entry>
+  </row>
+  <row>
+    <entry>LaNi<sub>5</sub>H<sub>6</sub></entry>
+    <entry>5.5</entry>
+    <entry>1.37</entry>
+  </row>
+</tbody>
+
+</tgroup><caption>Comparison of hydrogen storage ability of metal hydrides. </caption>
+</table>
+</section><section id="eip-857"><title>Liquid hydrogen</title><para id="eip-182">Liquid hydrogen is made possible by cryogenically cooling it to below its boiling point, -253 °C. As a liquid, the same amount of gaseous hydrogen will require much less volume, and therefore is feasible to individual automobile use. A refrigeration system is required to keep the liquid cooled, for if the system temperature rises above hydrogen's critical point (-241 °C), the liquid will become a gas. There must exist a vacuum insulation between the inner and outer walls of liquid hydrogen tank system, for heat cannot travel through a vacuum. There is a tradeoff, however, because the tank must be an open system to prevent overpressure. This will lead directly to heat loss, though minimal.
+</para><para id="eip-223">The relative tank size has a broad range, with small tanks having a volume of 100 L, and large spherical tanks sizing all the way up to 2000 m<sup>3</sup>. Refrigeration systems are not a likely feature for every automobile, and open systems may pose a hazard should an accident occur. Cooling hydrogen down to a liquid is a convenient method of storage, however, and its implementation most likely will be limited to large stationary tanks as well as mobile multi-axle trucks.</para></section><section id="eip-310"><title>Compressed hydrogen</title><para id="eip-770">
+Compressing gas is the process of applying an external force which minimizes the distance between gas particles, therefore forcing the system to occupy less volume. This is attractive since many particles can exist in a reasonably sized tank. At room temperature and atmospheric pressure, 4 kg of hydrogen occupies a volume of 45 m<sup>3</sup>, which corresponds to a balloon with a diameter of 5 m. Clearly compression is required to store and transport the gas. When it comes to individual mobility however, these tanks are still far too large for the average sized automobile. 
+</para><para id="eip-946">Compressed tanks are regularly filled to 200 atmospheres in most countries. Storing 4 kg of hydrogen still requires an internal volume of 225 L (about 60 gallons). This amount can be divided into 5 tanks with 45 L internal volume. </para></section><section id="eip-738"><title>Metal hydrides for storage</title><para id="eip-332">Metal hydrides are coordinated complexes and/or crystal systems which reversibly bind hydrogen. The hydrogen is favorably incorporated into the complex and may be released by applying heat to the system. A major method to determine a particular complex's effectiveness is to measure the amount of hydrogen that can be released from the complex, rather than the amount it can store (<link target-id="eip-954"/>).</para><para id="eip-686">
+Some issues with metal hydrides are low hydrogen capacity, slow uptake and release kinetics, as well as cost. The rate at which the complex accepts the hydrogen is a factor, since the time to fuel a car should ideally be minimal. Even more importantly, at the current stage of research, the rate at which hydrogen is released from the complex is too slow for automobile requirements. This technology is still a very promising method, and further research allows for the possibility of highly binding and rapid reversal rates of hydrogen gas.
+</para></section>
+
+</content>
+
+</document>

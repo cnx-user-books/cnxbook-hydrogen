@@ -1,0 +1,48 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Atomic Hydrogen</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m16928</md:content-id>
+  <md:title>Atomic Hydrogen</md:title>
+  <md:abstract>The synthesis and reactivity of atomic hydrogen</md:abstract>
+  <md:uuid>ffe70531-ecc2-402e-a24a-03768203cadb</md:uuid>
+</metadata>
+
+<content>
+    <para id="id11715225">Atomic hydrogen has the electron configuration of 1s<sup>1</sup> and as such represents the simplest atomic configuration. However, as a consequence there is dispute as to its proper position within the Periodic Table. Its electron configuration is similar to the valence electron configuration of the alkali metals (ns<sup>1</sup>) suggesting it be listed at the top of Group 1 (1A). However, its reaction chemistry is dissimilar to the alkali metals. Hydrogen is also one electron short of a Nobel gas configuration, and therefore it is possible to think of its relationship to the halogens. </para>
+    <section id="id-636367154629">
+      <title>Vapor phase</title>
+      <para id="id11761247">Atomic hydrogen (H<sup>.</sup>) is highly reactive and consequently has a short lifetime due to its reaction chemistry. Consequently, in order to generate and observe the reactivity they must be generate at low pressures. Thermolysis of hydrogen compound (commonly halide) or photolysis at an energy above the bond dissociation energy results in the homoleptic cleavage of the H-X bond to generate the appropriate radical species. </para>
+      
+      <equation id="eip-638"><media id="id12913122" alt=""><image src="../../media/Eq10.jpg" mime-type="image/jpg" width="500" print-width="4.5in"/></media></equation>
+
+<para id="id10623764">Alternatively, atomic hydrogen can be generated from elemental hydrogen. </para>
+      
+      <equation id="eip-299"><media id="id13069954" alt=""><image src="../../media/Eq11.jpg" mime-type="image/jpg" width="500" print-width="4.5in"/></media></equation>
+
+
+<para id="id7515574">The reverse reaction (recombination of two hydrogen atoms) is highly exothermic (-434 kJ.mol<sup>-1</sup>) and forms the basis of the heat generated in arc welding. </para>
+    </section>
+    <section id="id-808578858536">
+      <title>Solution </title>
+      <para id="id8584147">Atomic hydrogen may be generated in aqueous solution through the solvation of electrons. </para>
+      
+      
+      
+      <equation id="eip-945"><media id="id11659608" alt=""><image src="../../media/Eq12.jpg" mime-type="image/jpg" width="500" print-width="4.5in"/></media></equation>
+
+
+
+<para id="id5238252">The formation equilibrium constant (K<sub>eq</sub>) is very small resulting in very low concentrations being generated (10<sup>-5</sup> M). As expected solvated atomic hydrogen is a strong reducing agent. </para>
+
+      <equation id="eip-205"><media id="id6677777" alt=""><image src="../../media/Eq13.jpg" mime-type="image/jpg" width="500" print-width="4.5in"/></media></equation>
+
+<equation id="eip-598"><media id="id6677778" alt=""><image src="../../media/Eq14.jpg" mime-type="image/jpg" width="500" print-width="4.5in"/></media></equation>
+      
+      
+    </section>
+    <section id="id-779940817188">
+      <title>Solid state </title>
+      <para id="id11942338">Hydrogen atoms may be trapped in the solid state lattice upon generation by photolysis of HX. Observation by electron spin resonance (esr) of a signal split by s = <sup>1</sup>/<sub>2</sub> nucleus (i.e., <sup>1</sup>H) results in a doublet with a coupling of 1428 MHz. </para>
+    </section>
+  </content>
+</document>

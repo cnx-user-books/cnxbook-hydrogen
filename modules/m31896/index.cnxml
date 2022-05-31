@@ -1,0 +1,384 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>The Hydrogen Bond</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m31896</md:content-id>
+  <md:title>The Hydrogen Bond</md:title>
+  <md:abstract/>
+  <md:uuid>0c34addb-482e-4cf4-bf20-153f2f1ec049</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1167338835029">Hydrogen bonds are formed between a species with a polar X<sup>δ</sup><sup>-</sup>-H<sup>δ</sup><sup>+</sup> bond and a species with a lone pair (Y<sup>δ</sup><sup>-</sup>), i.e., X<sup>δ</sup><sup>-</sup>-H<sup>δ</sup><sup>+...</sup>Y<sup>δ</sup><sup>-</sup>. The most common species for X are oxygen and nitrogen, and to a lesser extent carbon, fluorine, and sulfur. However, as long as the X-H bond is polar then hydrogen bonding is possible. Similarly, the most common Lewis bases that hydrogen bond involve oxygen, nitrogen, and fluorine as the donor atom. Again there are many examples of other atoms, but as long as the atom has a lone pair that is chemically active, hydrogen bonding can occur. </para>
+    <para id="id1167330833539">The majority of hydrogen bonds are asymmetrical, that is the hydrogen is closer to one atom than the other (<link target-id="id1167332902384 "/>), even when X and Y are the same element, i.e., O-H<sup>...</sup>O. While the typical hydrogen bond involves one Lewis base (lone pair donor), there are many examples where the hydrogen interacts with two Lewis base lone pairs (<link target-id="id1167338747312"/>). </para>
+    <figure id="id1167332902384"><media id="id1167332902384_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-2eab.jpg" id="id1167332902384__onlineimage" width="300" print-width="2in"/>
+      </media>
+    <caption>Structure of (<sup>t</sup>Bu)<sub>2</sub>Ga(OPh)(pyz).(PhOH) from X-ray crystallographic data showing the presence of an asymmetrical hydrogen bond. Hydrogen atoms attached to carbon are omitted for clarity. Adapted from L. H. van Poppel, S. G. Bott and A. R. Barron, <emphasis effect="italics">Polyhedron</emphasis>, 2002, <emphasis effect="bold">21</emphasis>, 1877. </caption></figure>
+    
+
+
+      <figure id="id1167338747312"><media id="id1167338747312_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-7566.jpg" id="id1167338747312__onlineimage" width="300" print-width="2in"/>
+        </media>
+      <caption>Structure of [H{PhN(py)(quin)}]BF<sub>4</sub> from X-ray crystallographic data showing the presence of a trifurcated asymmetrical hydrogen bond. Hydrogen atoms attached to carbon are omitted for clarity. Adapted from J. J. Allen, C. E. Hamilton, and A. R. Barron, <emphasis effect="italics">J. Chem. Cryst.</emphasis>, 2009. </caption></figure>
+
+    
+    <para id="id1167339458380">Hydrogen bonds are mostly electrostatic attractions, and as such they are weaker than covalent bonds, but stronger than van der Waal interactions. With bond strengths generally covering the range of 5 – 50 kJ/mol, the energy required to break a hydrogen bond is comparable to that of thermal motion within the temperature range of 0 – 200 °C. As a consequence the number of groups involved in hydrogen bonding decreases with increasing temperature, until few hydrogen bonds are observed in the vapor phase. One noted exception is the hydrogen bridged anion [F-H-F]<sup>-</sup>, in which the strong interaction (243 kJ/mol) is covalent in character involving a three-center molecular orbital bond. </para>
+    <section id="id1167335804935">
+      <title>Classes of hydrogen bond</title>
+      <para id="id1167340672732">Although hydrogen bonds may be characterized with respect to the X and Y atom, it is more useful to classify them as either intramolecular or intermolecular hydrogen bonds. This is due to the difference in physical and chemical properties between these two classes. </para>
+      <section id="id1167333018944">
+        <title>Intramolecular</title>
+        <para id="id1167339036637">Intramolecular hydrogen bonds (X-H<sup>...</sup>Y) arise where the X and Y atoms are in the same molecule (<link target-id="id1167331075917"/>). </para>
+
+
+          <figure id="id1167331075917"><media id="id1167331075917_media" alt="">
+              <image mime-type="image/jpg" src="../../media/Fig3.jpg" id="id1167331075917__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>Structure of 3-<emphasis effect="italics">tert</emphasis>-butyl-2-hydroxy-5-methylacetophenone showing the presence of an intramolecular hydrogen bond. Hydrogen atoms attached to carbon are omitted for clarity. Adapted from M. B. Power, A. R. Barron, S. G. Bott, E. J. Bishop, K. D. Tierce and J. L. Atwood, <emphasis effect="italics">J. Chem. Soc., Dalton Trans.</emphasis>, 1991, 241. </caption></figure>
+
+        
+      </section>
+      <section id="id1167334053589">
+        <title>Intermolecular</title>
+        <para id="id1167332997946">If the hydrogen bond (X-H<sup>...</sup>Y) involves X and Y being from different molecules this is an intermolecular hydrogen bond. Within the range of intermolecular hydrogen bonded compounds there are two sub-categories: those involving discrete molecular species (oligomers) and those resulting in polymeric species. </para>
+        <para id="id1167330834701">Carboxylic acids are a typical example of a discrete oligomeric species that are held together by intermolecular hydrogen bonds (<link target-id="id1167333238591"/>a). A wide range of structurally analogous compounds also form head-to-tail hydrogen bonded dimers (e.g., <link target-id="id11666"/>). In a polymeric hydrogen bonded species every molecule hydrogen bonds but in a random form. As an example, liquid primary alcohols form extended hydrogen networks (<link target-id="id1167333238591"/>b). Such an arrangement is labile and as such it is difficult to determine definitive speciation. Liquids that form this type of hydrogen-bonded network are known as <emphasis effect="italics">associated liquids</emphasis>. In the solid state the networks generally adopt a more ordered structure. For example as is seen in the structure of ice. </para>
+
+
+        <figure id="id1167333238591"><media id="id1167333238591_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics4-7768.jpg" id="id1167333238591__onlineimage" width="400" print-width="4in"/>
+          </media>
+        <caption>Structure of (a) the head-to-tail dimmer formed between two carboxylic acid molecules, and (b) a typical network of a primary alcohol in the liquid phase. </caption></figure>
+
+
+  <figure id="id11666"><media id="id11666_media" alt="">
+              <image mime-type="image/jpg" src="../../media/Fig4.jpg" id="id11666__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>Structure of the hydrogen bonded diner of (C<sub>6</sub>H<sub>5</sub>)NNN(H)(C<sub>6</sub>F<sub>5</sub>). Adapted from J. T. Leman, J. Braddock-Wilking, A. J. Coolong, and A. R. Barron, <emphasis effect="italics">Inorg. Chem.</emphasis>, 1993, <emphasis effect="bold">32</emphasis>, 4324. </caption></figure>
+
+    
+        
+      </section>
+    </section>
+    <section id="id1167334644742">
+      <title>Methods of study </title>
+      <para id="id1167332865370">The study of the structure arising from hydrogen bonding and the properties exhibited due to the presence of hydrogen bonds is very important. </para>
+      <section id="id1167339948343">
+        <title>Diffraction methods</title>
+        <para id="id1167339957069">X-ray diffraction of single crystals is the most common structural method employed to determine the presence, effect, and strength of a hydrogen bond. Unfortunately, in order for the location of the hydrogen to be determined with some degree of accuracy, diffraction data of a high quality is needed and/or low temperature (e.g., -196 °C) data collection is required. Neutron scattering can be used where very accurate data is required because hydrogen atoms scatter neutrons better than they do X-rays. <link target-id="id1167338193514"/> summarizes the key parameters that are obtained from X-ray (and neutron) diffraction experiments. </para>
+        <figure id="id1167338193514"><media id="id1167338193514_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics5-b36e.jpg" id="id1167338193514__onlineimage" width="120" print-width="1.2in"/>
+          </media>
+        <caption>Structural parameters obtained from diffraction methods. </caption></figure>
+        
+        <para id="id1167333448030">Given the electrostatic nature of a hydrogen bond between a polar X-H bond and a Lewis base it is reasonable that the X-H<sup>...</sup>Y angle (θ) is roughly linear (i.e., 180°). However, it is not always so and non-linear interactions are known where steric or conformational restrictions limit the orientation of the X-H bond with respect to Y. </para>
+        <para id="id1167332817494">The distance between X and Y, d(X<sup>...</sup>Y), is less than the sum of the van der Waal radii of X and Y (<link target-id="id1167342295843"/>). This is in line with the relative strength of these interactions. As would be expected the shorter the X<sup>...</sup>Y distance the stronger the hydrogen bond. </para>
+        <table id="id1167342295843" summary="Comparison of the X...Y distance in hydrogen bonded species with the sum of the van der Waal radii.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">X</emphasis></entry>
+                <entry><emphasis effect="bold">Y</emphasis></entry>
+                <entry><emphasis effect="bold">Sum of van der Waal radii (Å)</emphasis></entry>
+                <entry>
+                  <emphasis effect="bold">Typical X<sup>...</sup>Y distance (Å)</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>O</entry>
+                <entry>O</entry>
+                <entry>2.8</entry>
+                <entry>2.50 – 2.69</entry>
+              </row>
+              <row>
+                <entry>O</entry>
+                <entry>N</entry>
+                <entry>2.9</entry>
+                <entry>2.75 - 2.85</entry>
+              </row>
+              <row>
+                <entry>N</entry>
+                <entry>N</entry>
+                <entry>3.0</entry>
+                <entry>2.69 – 2.98</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>Comparison of the X<sup>...</sup>Y distance in hydrogen bonded species with the sum of the van der Waal radii. </caption>
+</table>
+        
+        <para id="id1167335951087">The bond distance to hydrogen, d(X-H), is often longer in hydrogen bonded species. For example the O-H distance for an alcohol in the absence of hydrogen bonding is typically 0.97 Å. In contrast, the value typically seen for a hydrogen-bonded analog is 1.05 Å. </para>
+      </section>
+      <section id="id1167332539558">
+        <title>Spectroscopy</title>
+        <para id="id1167340756860">Spectroscopy is a simple method of comparing hydrogen-bonded systems in particular in the solution or liquid phase. </para>
+        <section id="id1167342299418">
+          <title>Infra red and Raman</title>
+          <para id="id1167340012880">The X-H stretching frequency in the IR (and Raman) spectrum is dependant on the identity of X, i.e., O-H = 3610 - 3640 cm<sup>-1</sup> and N-H = 3400 - 3500 cm<sup>-1</sup>. However, the ν(X-H) is shifted to lower energy (lower frequency) as a consequence of hydrogen bonding. In addition, while non-hydrogen bonded X-H stretches are sharp, the presence of hydrogen bonding results in the peak being broadened. Figure X demonstrates both these effects. The O-H stretch for dilute <sup>n</sup>BuOH in CCl<sub>4</sub> is a sharp peak at 3650 cm<sup>-1</sup> due to the lack of hydrogen bonding between the two components (<link target-id="id1167330760942"/>a), and the presence of hydrogen bonding between <sup>n</sup>BuOH and <sup>n</sup>BuOH is limited by the dilution. By contrast, a dilute solution of <sup>n</sup>BuOH in Et<sub>2</sub>O results in a shift to lower frequency and a significant increase of peak width (<link target-id="id1167330760942"/>b) as a result of fairly strong O-H<sup>...</sup>O bonds. Finally, a dilute solution of <sup>n</sup>BuOH in NMe<sub>3</sub> results in a further shift to 3250 cm<sup>-1</sup> and a very broad peak (<link target-id="id1167330760942"/>c). The broadening of the peaks is due to the distribution of X-H distances within a X-H<sup>...</sup>Y hydrogen bond. </para>
+          <figure id="id1167330760942"><media id="id1167330760942_media" alt="">
+              <image mime-type="image/jpg" src="../../media/IR new.jpg" id="id1167330760942__onlineimage" width="300" print-width="2.5in"/>
+            </media>
+          <caption>Schematic representation of the O-H stretch region in the IR spectra of a dilute solution of <sup>n</sup>BuOH in (a) CCl<sub>4</sub>, (b) Et<sub>2</sub>O, and (c) NEt<sub>3</sub>. </caption></figure>
+          
+        </section>
+        <section id="id1167339491588">
+          <title>NMR</title>
+          <para id="id1167338221658">The presence of hydrogen bonding results the shift to higher ppm (lower frequency) of the <sup>1</sup>H NMR resonance for the proton. This shift is due to the decrease in shielding of the proton. A dilute solution of <sup>n</sup>BuOH in CCl<sub>4</sub> shows a resonance typical of a non-hydrogen bonded compound (<link target-id="id1167340643096"/>a), while that for <sup>n</sup>BuOH in NMe<sub>3</sub> (<link target-id="id1167340643096"/>b) shows a significant low field shift. Very strong intra or intermolecular hydrogen bonded species show a very large <sup>1</sup>H NMR shift (e.g., <link target-id="id1167340643096"/>c). </para>
+
+
+            <figure id="id1167340643096"><media id="id1167340643096_media" alt="">
+                <image mime-type="image/jpg" src="../../media/NMR new.jpg" id="id1167340643096__onlineimage" width="300" print-width="2.5in"/>
+              </media>
+            <caption>Schematic representation of the relative shift of the O<emphasis effect="italics">H</emphasis> resonance for (a) <sup>n</sup>BuOH in CCl<sub>4</sub>, (b) <sup>n</sup>BuOH in NEt<sub>3</sub>, and (c) concentrated acetic acid. </caption></figure>
+
+          
+        </section>
+      </section>
+    </section>
+    <section id="id1167337380826">
+      <title>Effects of hydrogen bonding </title>
+      <section id="id1167342115078">
+        <title>Physical effects</title>
+        <para id="id1167342069295">The presence of intermolecular hydrogen bonding provides additional attractive forces between molecules. Thus, properties that depend on intramolecular forces are affected. </para>
+        <para id="id1167338713520">Liquids with significant hydrogen bonding exhibit higher boiling points, higher viscosity, and higher heat of vaporization (ΔH<sub>v</sub>) as compared to analogous compounds without extensive hydrogen bonding. For solids the presence of hydrogen bonding results in an increase in the melting point of the solid and an increase in the associated heat of fusion (ΔH<sub>f</sub>). </para>
+        <para id="id1167339879962">The archetypal case for the effect of hydrogen bonding is the melting and boiling points of the hydrides of the Group 16 elements, i.e., H<sub>2</sub>E. For a series of analogous compounds with the same molecular structure it would be expected that the boiling points would be related to the molecular mass. However, as can be seen from <link target-id="id1167337335597"/>, the melting and boiling points of water are anomalously higher than those of its heavier analogs. In fact from <link target-id="id1167339732577"/> it is clear that just considering H<sub>2</sub>S, H<sub>2</sub>Se, and H<sub>2</sub>Te, the expected trend is observed, and it is similar to that for the Group 14 hydrides (CH<sub>4</sub>, SiH<sub>4</sub>, etc). Therefore, water must have additional intermolecular forces as compared to its heavier homologs. This observation is consistent with the strong hydrogen bonding in water, and the very weak if nonexistent hydrogen bonding in the sulfur, selenium, and tellurium analogs. </para>
+        <table id="id1167337335597" summary="Summary of physical properties for the hydrides of the Group 16 elements.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Compound</emphasis></entry>
+                <entry><emphasis effect="bold">Molecular weight (g/mol)</emphasis></entry>
+                <entry><emphasis effect="bold">Mpt (°C)</emphasis></entry>
+                <entry><emphasis effect="bold">Bpt (°C)</emphasis></entry>
+              </row>
+              <row>
+                <entry>H<sub>2</sub>O</entry>
+                <entry>18.01</entry>
+                <entry>0</entry>
+                <entry>100</entry>
+              </row>
+              <row>
+                <entry>H<sub>2</sub>S</entry>
+                <entry>34.08</entry>
+                <entry>-85.5</entry>
+                <entry>-60.7</entry>
+              </row>
+              <row>
+                <entry>H<sub>2</sub>Se</entry>
+                <entry>80.98</entry>
+                <entry>-60.4</entry>
+                <entry>-41.5</entry>
+              </row>
+              <row>
+                <entry>H<sub>2</sub>Te</entry>
+                <entry>129.62</entry>
+                <entry>-49</entry>
+                <entry>-2</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>Summary of physical properties for the hydrides of the Group 16 elements. </caption>
+</table>
+        
+          <figure id="id1167339732577"><media id="id1167339732577_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics8-a0a1.jpg" id="id1167339732577__onlineimage" width="350" print-width="3in"/>
+            </media>
+          <caption>Plot of boiling point as a function of molecular weight for the hydrides of the Group 14 (EH<sub>4</sub>) and 16 (H<sub>2</sub>E) elements. </caption></figure>
+
+        
+        <para id="id1167339608131">A similar but not as pronounced trend is observed for the Group 15 hydrides, where ammonia’s higher values are associated with the presence of significant hydrogen bonding (<link target-id="id1167333825960"/>). </para>
+        <table id="id1167333825960" summary="Summary of physical properties for the hydrides of the Group 15 elements.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Compound</emphasis></entry>
+                <entry><emphasis effect="bold">Molecular weight (g/mol)</emphasis></entry>
+                <entry><emphasis effect="bold">Mpt (°C)</emphasis></entry>
+                <entry><emphasis effect="bold">Bpt (°C)</emphasis></entry>
+              </row>
+              <row>
+                <entry>NH<sub>3</sub></entry>
+                <entry>17.03</entry>
+                <entry>-77.7</entry>
+                <entry>-33.35</entry>
+              </row>
+              <row>
+                <entry>PH<sub>3</sub></entry>
+                <entry>34.00</entry>
+                <entry>-133.5</entry>
+                <entry>-87.4</entry>
+              </row>
+              <row>
+                <entry>AsH<sub>3</sub></entry>
+                <entry>77.95</entry>
+                <entry>-113.5</entry>
+                <entry>-55</entry>
+              </row>
+              <row>
+                <entry>SbH<sub>3</sub></entry>
+                <entry>124.77</entry>
+                <entry>-88.5</entry>
+                <entry>-17</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>Summary of physical properties for the hydrides of the Group 15 elements. </caption>
+</table>
+        
+        <exercise id="eip-240"><problem id="eip-440">
+  <para id="eip-437">
+    Would you expect H<sub>2</sub>S<sub>2</sub> to have a higher or lower boiling point that H<sub>2</sub>O<sub>2</sub>? Why? 
+  </para>
+</problem>
+
+<solution id="eip-561">
+  <para id="eip-920">
+    The boiling point for H<sub>2</sub>O<sub>2</sub> is 150.2 °C, while that of 70.7 °C. The difference in boiling point is due to the stronger intermolecular hydrogen bonding in H<sub>2</sub>O<sub>2</sub> than in H<sub>2</sub>S<sub>2</sub>. 
+  </para>
+</solution>
+</exercise>
+
+<para id="id1167332881729">The types of hydrogen bond can also have a significant effect on the physical properties of a compound. For example, the <emphasis effect="italics">cis</emphasis> isomer of hydroxybenzaldehyde melts at 1 °C, while the <emphasis effect="italics">trans</emphasis> isomer has melting and boiling points of 112 °C. Both compounds exhibit strong hydrogen bonding in the solid state, however, as may be seen from <link target-id="id1167333934340"/>a, <emphasis effect="italics">cis</emphasis>-hydroxybenzaldehyde (salicylaldehyde) has a configuration that allows strong intramolecular hydrogen bonding, which precludes any intermolecular hydrogen bonding. The melting point of <emphasis effect="italics">cis</emphasis>-hydroxybenzaldehyde is going to be controlled by the van der Waal forces between adjacent molecules. In contrast, since intramolecular hydrogen bonding is precluded in the <emphasis effect="italics">trans</emphasis> isomer (<link target-id="id1167333934340"/>b) it can form strong intermolecular hydrogen bonds in the solid state, and thus, it is these that define the melting point. The boiling points are controlled in a similar manner. </para>
+
+
+          <figure id="id1167333934340"><media id="id1167333934340_media" alt="">
+              <image mime-type="image/jpg" src="../../media/Fig5.jpg" id="id1167333934340__onlineimage" width="400" print-width="4in"/>
+            </media>
+          <caption>Structures of (a) salicylaldehyde and (b) <emphasis effect="italics">trans</emphasis>-hydroxybenzaldehyde. </caption></figure>
+
+
+        
+        <exercise id="eip-68"><problem id="eip-379">
+  <para id="eip-53">
+    4-Hydroxybenzoic acid melts at 213 °C, while 2-hydroxybenzoic acid melts at 158 °C. Explain this observation. 
+  </para>
+</problem>
+
+<solution id="eip-976">
+  <para id="eip-686">
+    2-Hydroxybenzoic acid exhibits strong intramolecular hydrogen bonding while  4-hydroxybenzoic acid has strong intermolecular hydrogen bonding. 
+  </para>
+</solution>
+</exercise><para id="id1167334925920">Melting and boiling are not the only physical properties that are affected by hydrogen bonding. Solubility can also be affected. Consider two isomers of C<sub>4</sub>H<sub>10</sub>O: <sup>n</sup>BuOH and Et<sub>2</sub>O. The n-butanol is much more soluble in water than diethyl ether. The reason for this is that while both compounds can hydrogen bond to water, those between <sup>n</sup>BuOH and water are much stronger than those between Et<sub>2</sub>O and water, and thus, dissolution of <sup>n</sup>BuOH in water does not disrupt the very strong hydrogen bonding in water as much as Et<sub>2</sub>O does. </para>
+      </section>
+      <section id="id1167332424437">
+        <title>Acid strength</title>
+        <para id="id1167340051419">The acidity of a protic species can be affected by the presence of hydrogen bonding. For example, consider the di-carboxylic acid derivatives of ethylene (fumaric acid). Each of the carboxylic acid groups has sequential equilibria that may be defined by the pK values, <link target-id="eip-903"/>. <link target-id="id1167330850690"/> lists the pK values for the <emphasis effect="italics">cis</emphasis> and <emphasis effect="italics">trans</emphasis> isomers. The acidity of the first and second carboxylic group for the <emphasis effect="italics">trans</emphasis> isomer is similar, the difference being due to the increased charge on the molecule. In contrast, the second proton in the <emphasis effect="italics">cis</emphasis> isomer is much less acidic than the first proton: why? A consideration of the structure of the mono anion of the <emphasis effect="italics">cis</emphasis> isomer (<link target-id="id1167334951640"/>) shows that a very strong intramolecular hydrogen bond is formed once the first proton is removed. This hydrogen bond makes the second acidic proton much more difficult to remove and thus lowers the acidity of the proton. </para>
+        
+        <equation id="eip-903"><media id="id1167338289536_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics10-f81e.jpg" id="id1167338289536__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+
+<table id="id1167330850690" summary="Acidity equilibrium constants for cis and trans isomers of fumaric acid.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Isomer</emphasis></entry>
+                <entry>
+                  <emphasis effect="bold">pK<sub>1</sub></emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">pK<sub>2</sub></emphasis>
+                </entry>
+                <entry><emphasis effect="bold">Ratio</emphasis></entry>
+              </row>
+              <row>
+                <entry><emphasis effect="italics">Trans</emphasis></entry>
+                <entry>3</entry>
+                <entry>4.5</entry>
+                <entry>25:1</entry>
+              </row>
+              <row>
+                <entry><emphasis effect="italics">Cis</emphasis></entry>
+                <entry>1.9</entry>
+                <entry>6.2</entry>
+                <entry>10,000:1</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>Acidity equilibrium constants for <emphasis effect="italics">cis</emphasis> and <emphasis effect="italics">trans</emphasis> isomers of fumaric acid. </caption>
+</table>
+        
+
+          <figure id="id1167334951640"><media id="id1167334951640_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics11-425a.jpg" id="id1167334951640__onlineimage" width="190" print-width="2in"/>
+            </media>
+          <caption>Structure of <emphasis effect="italics">cis</emphasis>-[O<sub>2</sub>C-HC=CH-CO<sub>2</sub>H]<sup>-</sup>. </caption></figure>
+
+        
+      </section>
+      <section id="id1167333242741">
+        <title>Solid state structure</title>
+        <para id="id1167335134992">In the solid state, molecules that can form hydrogen bonds will tend to arrange themselves so as to maximize the formation of linear hydrogen bonds. The structure of ice is a typical example, where each water molecule’s hydrogen bonds to four other molecules creating a diamond-like lattice (<link target-id="id1167340071752"/>). However, ice isn’t the only compound whose solid state structure is defined by its hydrogen bonding. Cyanuric acid forms six strong intermolecular hydrogen bonds to three other molecules in the plane of the heterocyclic ring and thus creates a graphite-like structure (<link target-id="id1167340070701"/>). </para>
+        <figure id="id1167340071752"><media id="id1167340071752_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics12-766a.jpg" id="id1167340071752__onlineimage" width="350" print-width="3in"/>
+          </media>
+        <caption>The diamond-like structure formed in ice by hydrogen bonding. </caption></figure>
+        
+
+
+          <figure id="id1167340070701"><media id="id1167340070701_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics13-d39e.jpg" id="id1167340070701__onlineimage" width="500" print-width="4in"/>
+            </media>
+          <caption>The hydrogen bonding of cyanuric acid. </caption></figure>
+
+
+        
+      </section>
+      <section id="id1167339737615">
+        <title>Conformational stabilization</title>
+        <para id="id1167339573413">The presence of hydrogen bonding can stabilize certain conformations over others that in the absence of hydrogen bonding would be more favored. For example, based on steric considerations H<sub>2</sub>NCH<sub>2</sub>CH<sub>2</sub>C(O)H would be expected to adopt a staggered conformation as is typical for compounds with free rotation about a C-C bond. However, due to the presence of a strong intramolecular hydrogen bond it adopts a sterically disfavored eclipsed conformation (<link target-id="id1167339583052"/>). </para>
+        <figure id="id1167339583052"><media id="id1167339583052_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics14-5ac4.jpg" id="id1167339583052__onlineimage" width="150" print-width="1.5in"/>
+          </media>
+        <caption>Stable conformation of H<sub>2</sub>NCH<sub>2</sub>CH<sub>2</sub>C(O)H. </caption></figure>
+        
+        <para id="id1167339677956">This conformational stabilization is even more important in biopolymers such as peptides. If we assume that a peptide chain (<link target-id="id1167336978853"/>) made from a sequence of amino acids would not adopt any eclipsed conformations on steric grounds, and that the amide group (H-N-C=O) is near planar due to delocalization, then there will be 3<sup>2</sup> possible conformations per nitrogen in the peptide chain, i.e., three each for the C-C and C-N bonds (<link target-id="id1167336978853"/>). Assuming a modest peptide has 50 amino acids, there will be 3<sup>2x50</sup> potential conformations of the polymer chain, i.e., over 5 x 10<sup>47</sup> conformations. However, in reality there are limits to the number of conformations observed since particular ones are stabilized by intramolecular hydrogen bonds. The most important of these are the α-helix (<link target-id="id1167336883956"/>) and β-sheet structures. </para>
+
+
+          <figure id="id1167336978853"><media id="id1167336978853_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics15-1cb3.jpg" id="id1167336978853__onlineimage" width="300" print-width="3in"/>
+            </media>
+          <caption>A section of a peptide polymer chain showing the possible rotational freedom of the C-C and C-N bonds. </caption></figure>
+
+        
+        <figure id="id1167336883956"><media id="id1167336883956_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics16-1cdc.jpg" id="id1167336883956__onlineimage" width="350" print-width="3.5in"/>
+          </media>
+        <caption>A representation of a peptide α-helix structure showing the stabilizing hydrogen bonds. </caption></figure>
+        
+      </section>
+    </section>
+    <section id="id1167338565449">
+      <title>Bibliography</title>
+      <list id="id1167335787235" list-type="bulleted">
+
+<item>J. T. Leman, J. Braddock-Wilking, A. J. Coolong, and A. R. Barron, <emphasis effect="italics">Inorg. Chem.</emphasis>, 1993, <emphasis effect="bold">32</emphasis>, 4324. </item>
+
+<item>K. Nakamoto, M. Margoshes, and R. E. Rundle, <emphasis effect="italics">J. Am. Chem. Soc.</emphasis>, 1955, <emphasis effect="bold">77</emphasis>, 6480. </item>
+
+<item>M. B. Power, A. R. Barron, S. G. Bott, E. J. Bishop, K. D. Tierce and J. L. Atwood, <emphasis effect="italics">J. Chem. Soc., Dalton Trans.</emphasis>, 1991, 241.</item>
+
+<item>R. Taylor and O. Kennard, <emphasis effect="italics">Acc. Chem. Res.</emphasis>, 1984, <emphasis effect="bold">17</emphasis>, 320. </item>
+
+
+
+
+
+      </list>
+    </section>
+  </content>
+</document>
